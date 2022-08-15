@@ -1,0 +1,11 @@
+{
+    "name": "hrustzzz/useless-package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "hrustzzz",
+            "email": "pivovarov.vladimir.95@gmail.com"
+        }
+    ],
+    "require": {}
+}
