@@ -1,6 +1,11 @@
 {
     "name": "hrustzzz/useless-package",
     "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hrustzzz\\UselessPackage\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "hrustzzz",
