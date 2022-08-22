@@ -9,7 +9,7 @@
 ## Установка
 
 ```bash
-$ composer require hrustzz/useless-package
+$ composer require hrustzzz/useless-package
 ```
 
 ## Использование
